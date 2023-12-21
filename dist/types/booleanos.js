@@ -1,0 +1,10 @@
+"use strict";
+let isActive = true;
+isActive = false;
+console.log(isActive);
+console.log(typeof isActive);
+//isActive = 'asddsdsgf';
+let published;
+published = true;
+console.log(published);
+console.log(typeof published);
